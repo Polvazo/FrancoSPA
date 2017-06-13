@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FrancoSPA</string>
+    <string name="botonizquierdo">Nuestros
+        Trabajos</string>
+    <string name="contactame">Contáctame</string>
+    <string name="top">FRANCO SPA</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
